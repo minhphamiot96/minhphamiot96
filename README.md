@@ -6,7 +6,8 @@
 Update soon
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | C++ | C | PCB Layout 
+
+- 💻 &nbsp; Python | C++ | C | PCB Layout
 
 - 🔧 &nbsp; Git | Markdown
 
