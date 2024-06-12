@@ -1,5 +1,2 @@
 ## Hi there 👋
-I am an experienced embedded software developer with 6 years of professional experience, including 2 years focused on the automotive sector. My expertise spans across multiple domains, including Internet of Things (IoT), low power devices, wireless communication, and automation. I have a strong foundation in state machine and activity workflow design for embedded software projects.
-My technical skills encompass a variety of programming languages such as C, C++, and shell scripting. I am proficient with various microcontroller units (MCUs) including STM32, ESP32, MSP430, and Nordic NRF52. I also have substantial knowledge and hands-on experience with operating systems like Linux and real-time operating systems (RTOS) such as FreeRTOS, Zephyr OS, and RIOT OS.
-In addition to software development, I have a solid background in working with hardware, device drivers, firmware, and applications in embedded Linux environments. My debugging skills are well-honed with tools like Segger Jlink, ST-Link, and Lauterbach.
-My diverse skill set and comprehensive experience make me adept at tackling complex challenges in the embedded systems field.
+
