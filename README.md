@@ -35,10 +35,8 @@ Update soon
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
 <p align="left">
-  
+
 <a href="https://www.linkedin.com/in/minh-ph%E1%BA%A1m-ng%E1%BB%8Dc-980749188/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Minh%20Pham-blue?style=flat-square&logo=linkedin"></a>
 
 </p>
