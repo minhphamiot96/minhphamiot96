@@ -9,6 +9,9 @@ Furthermore, I am familiar with numerous industry and automotive communication p
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++ | Python
+- LoRaWAN, Sigfox, BLE, Fanet, ...
+- RTOS: FreeRTOS, Zephyr OS, RiOT, ...
+- MCU: STM32WB55, STM32WL55, STM32WLE5, ESP32-S3, ESP32-C6, Nordic, ...
 - 🛠️ &nbsp; PCB multi layout, Antenna SMA for BLE and Lora, using Altium and Kicad.
 - 🔧 &nbsp; Git | Markdown | Jira | Bitbucket
 
